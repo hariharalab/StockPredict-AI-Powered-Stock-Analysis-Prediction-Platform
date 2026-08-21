@@ -1,4 +1,4 @@
-Here’s a clean README you can paste directly:
+
 
 # StockPredict – AI-Powered Stock Analysis & Prediction Platform
 
